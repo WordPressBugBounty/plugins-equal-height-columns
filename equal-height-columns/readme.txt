@@ -3,7 +3,7 @@ Contributors: MIGHTYminnow, Braad, McGuive7
 Donate link: http://mightyminnow.com
 Tags: equal, height, column, div, element, jQuery, JavaScript
 Requires at least: 3.5
-Tested up to: 6.6.1
+Tested up to: 6.9
 Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,10 @@ Or if you'd prefer to just trigger the equalizing of the heights without involvi
 `
 jQuery( '.selector' ).equalizeTheHeights();
 `
+
+= How can I report security bugs? =
+
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/equal-height-columns)
 
 == Screenshots ==
 
